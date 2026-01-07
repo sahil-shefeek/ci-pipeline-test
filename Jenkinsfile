@@ -5,7 +5,7 @@ pipeline {
 
         stage('Clone Repo') {
             steps {
-                git 'https://github.com/yourname/vite-ci-cd.git'
+                git 'https://github.com/Afreed7411/ci-ci-pipeline.git'
             }
         }
 
